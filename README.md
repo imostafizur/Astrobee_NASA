@@ -1,5 +1,5 @@
 # Astrobee_NASA
-Astrobee Apk Code path 
+Astrobee Java Code path 
 
 DefaultApk/app/src/main/java/jp/jaxa/iss/kibo/rpc/defaultapk/
 
