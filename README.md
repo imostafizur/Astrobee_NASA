@@ -16,4 +16,5 @@ students solve various problems by programming free-flying robots (Astrobee and 
 the International Space Station (ISS).
 
 Astrobee Java Sourse Code path :
-DefaultApk/app/src/main/java/jp/jaxa/iss/kibo/rpc/defaultapk/
+
+DefaultApk/app/src/main/java/jp/jaxa/iss/kibo/rpc/defaultapk/YourService.java
