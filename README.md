@@ -2,16 +2,10 @@
 
 This reposirtory contain Astrobee's code for kibo RPC(kibo Robotic Programming Challenge).
 
-
-![unnamed](https://user-images.githubusercontent.com/59665707/98370786-1b50b280-2009-11eb-9af6-50bc5cb27e59.jpg)
-
-
 Kibo-RPC(Kibo Robot Programming Challenge):
-
 The Kibo Robot Programming Challenge (Kibo-RPC) is an educational program in which
 students solve various problems by programming free-flying robots (Astrobee and Int-Ball) in
 the International Space Station (ISS).
-
 
 ![Astrobee](https://user-images.githubusercontent.com/59665707/98366721-759a4500-2002-11eb-99f2-079e9e34fc58.jpeg)  
 
