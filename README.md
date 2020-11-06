@@ -3,7 +3,7 @@
 This reposirtory contain Astrobee's code for kibo RPC(kibo Robotic Programming Challenge).
 
 
-![Astrobee](https://user-images.githubusercontent.com/59665707/98366721-759a4500-2002-11eb-99f2-079e9e34fc58.jpeg) ![hqdefault](https://user-images.githubusercontent.com/59665707/98367540-cbbbb800-2003-11eb-907e-82ec5286fb8a.jpg)
+![Astrobee](https://user-images.githubusercontent.com/59665707/98366721-759a4500-2002-11eb-99f2-079e9e34fc58.jpeg)
 
 
 
