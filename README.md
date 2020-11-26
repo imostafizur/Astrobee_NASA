@@ -1,6 +1,6 @@
 # ASTROBEE_NASA
 
-This reposirtory contain Astrobee's code for kibo RPC(kibo Robotic Programming Challenge).
+This reposirtory contain Astrobee's code for KIBO RPC (1st kibo Robot Programming Challenge).
 
 ![Astrobee](https://1.bp.blogspot.com/-_KkwnawtmFk/X1qaYfctUII/AAAAAAABbH0/lEg1aOjnnzYNhtwvxwb1hcMWMQTQRpLVACLcBGAsYHQ/s1600/WhoppingDenseChick-size_restricted.gif)  
 
