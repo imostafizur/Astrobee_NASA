@@ -10,4 +10,4 @@ Astrobee, NASA’s new free-flying robotic system, will help astronauts reduce t
 
 Astrobee Java Sourse Code path :
 
-# DefaultApk/app/src/main/java/jp/jaxa/iss/kibo/rpc/defaultapk/YourService.java
+DefaultApk/app/src/main/java/jp/jaxa/iss/kibo/rpc/defaultapk/YourService.java
